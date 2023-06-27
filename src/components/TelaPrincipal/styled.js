@@ -12,7 +12,7 @@ export const Div = styled.div`
   }
 
   button {
-    background-color: #ff5f59;
+    background-color: teal;
     border-radius: 8px;
     padding: 16px;
     width: 200px;
@@ -26,4 +26,6 @@ export const Div = styled.div`
 
 export const Titulo = styled.h1`
   margin: 16px;
+  color: darkgrey;
+  font-size: 35px;
 `;
